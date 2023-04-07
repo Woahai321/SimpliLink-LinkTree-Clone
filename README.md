@@ -39,3 +39,6 @@ If you'd like to contribute to the SimpliLink project, feel free to fork the rep
 ## License
 
 SimpliLink is open-source software licensed under the [MIT license](LICENSE).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/Woahai321/SimpliLink-LinkTree-Clone)
+
