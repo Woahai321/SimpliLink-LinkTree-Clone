@@ -12,7 +12,7 @@ SimpliLink is a lightweight, user-friendly, and minimalistic alternative to Link
 - Personalized and professional profile page
 - Showcase all your important links in one location
 
-![SimpliLink Example](./example.png)
+![SimpliLink Example](./Example.png)
 
 ## Installation
 
