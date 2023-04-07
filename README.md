@@ -17,7 +17,7 @@ SimpliLink is a lightweight, user-friendly, and minimalistic alternative to Link
 1. Clone the repository or download the source code:
 
 ```bash
-git clone https://github.com/yourusername/simplilink.git
+git clone https://github.com/Woahai321/SimpliLink-LinkTree-Clone.git
 ```
 
 2. Open the `index.html` file in your favorite code editor and customize the content, links, and styles according to your preferences.
