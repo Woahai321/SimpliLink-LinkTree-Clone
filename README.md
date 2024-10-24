@@ -38,6 +38,15 @@ git clone https://github.com/Woahai321/SimpliLink-LinkTree-Clone.git
 
 If you'd like to contribute to the SimpliLink project, feel free to fork the repository, make any changes or improvements, and submit a pull request. We appreciate your support!
 
+## 💰 Donations
+
+If you find our work useful and would like to support us, feel free to make a donation using the addresses below:
+
+- BTC (Bitcoin): `bc1qxjpfszwvy3ty33weu6tjkr394uq30jwkysp4x0`
+- ETH (Ethereum): `0xAF3ADE79B7304784049D200ea50352D1C717d7f2`
+
+Thank you for your support!
+
 ## License
 
 SimpliLink is open-source software licensed under the [MIT license](LICENSE).
